@@ -1,0 +1,1 @@
+!function(a){a(function(){a(".button-collapse").sideNav({menuWidth:180,closeOnClick:!0,draggable:!0}),a(".modal").modal(),a(".parallax").parallax()})}(jQuery);
